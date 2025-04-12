@@ -1,94 +1,79 @@
 # 🛡️ Phishing Simulator Project
 
-A lightweight phishing simulation lab designed to help cybersecurity learners test and understand phishing campaigns using **Gophish**, **Mailtrap**, and **Ethereal**.
+A lightweight phishing simulation lab to help cybersecurity learners test and understand phishing campaigns using **Gophish**, **Mailtrap**, and **Ethereal**.
 
 ---
 
 ## 🚀 Project Overview
 
-This project simulates a phishing campaign in a safe, sandboxed environment using:
-- **Gophish**: To create and manage phishing campaigns
-- **Mailtrap & Ethereal**: For fake SMTP servers to test email delivery without spamming real inboxes
+This project simulates a phishing campaign in a safe environment using:
+
+- **Gophish** – to create and manage phishing campaigns
+- **Mailtrap & Ethereal** – for fake SMTP servers to test email delivery without spamming real inboxes
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
 - Python / Flask (optional UI extension)
 - Gophish (open-source phishing toolkit)
-- Mailtrap (for SMTP testing)
-- Ethereal (test inbox)
-- GitHub CLI
+- Mailtrap / Ethereal (test SMTP)
+- GitHub + Git
 - MacOS Terminal
 
 ---
 
 ## ✨ Key Features
 
-- Create fake phishing email campaigns using Gophish
-- Securely test email delivery with Mailtrap and Ethereal
-- Learn hands-on how phishing works—without harming anyone
-- Professional README and GitHub push for recruiters
+- Launch phishing campaigns with custom emails & fake landing pages
+- Securely test email delivery with dummy inboxes
+- Capture email opens, link clicks, and submitted data
+- README includes project screenshots for professional portfolio use
 
 ---
 
-## 📸 Screenshots
+## 🖼️ Screenshots
 
-1. Campaign Dashboard
-Shows an overview of phishing campaigns created and their current statuses.
-
-2. Email Template
-Displays the custom phishing email template used in the simulation.
-
-3. Ethereal Inbox
-Demonstrates successful email delivery using the Ethereal testing service.
-
-4. Campaign Details
-Breakdown of results from the “Job Offer Campaign,” including delivery, opens, and interactions.
-
-5. Fake Login Landing Page
-The custom landing page where users were redirected to capture credentials.
-
-```
-📤 Gophish Terminal Output  
-📬 Ethereal inbox with test mail  
-✅ GitHub Push confirmation 
-```
+1. **Campaign Dashboard** – Overview of created campaigns
+2. **Email Template** – Phishing message used in simulation
+3. **Ethereal Inbox** – Shows successful test mail delivery
+4. **Campaign Results** – Clicks, opens, data submission
+5. **Fake Login Page** – Captures dummy credentials
 
 ---
 
-## 📂 How to Use
+## ▶️ How to Use
 
 ```bash
 # 1. Launch Gophish
 ./gophish
 
-# 2. Login at:
+# 2. Open in browser
 https://127.0.0.1:3333
 
-# 3. Create Sending Profile with Mailtrap or Ethereal
+# 3. Set up Sending Profile using Mailtrap or Ethereal
 
-# 4. Launch campaign and monitor results
+# 4. Launch a campaign and monitor results
 ```
 
 ---
 
-## 📌 Repository
+## 📁 Repository
 
-GitHub: [ckideas1/phishing-simulator-project](https://github.com/ckideas1/phishing-simulator-project)
+[github.com/ckideas1/phishing-simulator-project](https://github.com/ckideas1/phishing-simulator-project)
 
 ---
 
-## 💼 Project Status
+## ✅ Project Status
 
-✅ Pushed to GitHub  
-✅ Tested email send with both Mailtrap and Ethereal  
-✅ Ready for portfolio + resume
+- [x] Project pushed to GitHub
+- [x] Emails tested using Mailtrap & Ethereal
+- [x] Screenshots added for portfolio review
 
 ---
 
 ## 👤 Author
 
 **Bryan Garcia**  
-Security Engineering | Cloud Solutions | Cybersecurity Pre-Sales  
-GitHub: [ckideas1](https://github.com/ckideas1)
+Cybersecurity | Cloud | Pre-Sales Engineering  
+[GitHub Profile](https://github.com/ckideas1)
