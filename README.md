@@ -69,7 +69,7 @@ This project simulates end-to-end phishing attacks in a secure, sandboxed lab. K
 ---
 
 📁 Repository
-🔗 GitHub Repo Link
+🔗 [GitHub Repo Link](https://github.com/ckideas1/phishing-simulator-project)
 
 ---
 
