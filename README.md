@@ -34,24 +34,25 @@ This project simulates end-to-end phishing attacks in a secure, sandboxed lab. K
 
 ---
 
-## 📸 Screenshots
+📸 **Screenshots**
 
-1. **Campaign Dashboard**  
-   Overview of phishing campaigns created and their current statuses.
+1. **Campaign Dashboard**
+   ![Campaign Results](assets/screenshots/campaign-results.png)
 
-2. **Email Template**  
-   Custom phishing email template used in the simulation.
+2. **Email Template**
+   ![Email Template](assets/screenshots/email-template.png)
 
-3. **Ethereal Inbox**  
-   Screenshot of a fake inbox showing delivery of the phishing test email.
+3. **Ethereal Inbox**
+   ![Ethereal Inbox](assets/screenshots/ethereal-inbox.png)
 
-4. **Campaign Details**  
-   Breakdown of results from the “Job Offer Campaign,” including delivery, opens, and interactions.
+4. **Campaign Details**
+   ![Job Offer Results](assets/screenshots/job-offer-results.png)
 
-5. **Fake Login Landing Page**  
-   Custom landing page where users were redirected to capture credentials.
+5. **Fake Login Landing Page**
+   ![Landing Page](assets/screenshots/landing-page.png)
 
 ---
+
 
 ## 🛠️ How to Use
 
