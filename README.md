@@ -1,7 +1,6 @@
 # 🛡️ Phishing Simulator Project
 
-A professional-grade phishing simulation lab built to demonstrate cybersecurity awareness, email security testing, and incident response readiness.  
-This environment replicates real-world phishing campaigns using **Gophish**, **Mailtrap**, and **Ethereal**, without spamming real inboxes.
+A professional-grade phishing simulation lab built to demonstrate cybersecurity awareness, email security testing, and incident response readiness. This environment replicates real-world phishing campaigns using **Gophish**, **Mailtrap**, and **Ethereal**, without spamming real inboxes.
 
 ---
 
