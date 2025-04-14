@@ -1,27 +1,28 @@
-🛡️ Phishing Simulator Project
-A professional-grade phishing simulation lab built to demonstrate cybersecurity awareness, email security testing, and incident response readiness. This environment replicates real-world phishing campaigns using Gophish, Mailtrap, and Ethereal, without spamming real inboxes.
+# 🛡️ Phishing Simulator Project
 
-🚀 Project Overview
+A professional-grade phishing simulation lab built to demonstrate cybersecurity awareness, email security testing, and incident response readiness.  
+This environment replicates real-world phishing campaigns using **Gophish**, **Mailtrap**, and **Ethereal**, without spamming real inboxes.
+
+---
+
+## 🚀 Project Overview
+
 This project simulates end-to-end phishing attacks in a secure, sandboxed lab. Key features include:
 
-🧠 Gophish for designing, launching, and monitoring phishing campaigns
+- 🧠 **Gophish** for designing, launching, and monitoring phishing campaigns  
+- 📬 **Mailtrap** & **Ethereal** for safe email testing using fake SMTP servers  
+- 💻 Custom email templates and fake login landing pages for hands-on threat simulation  
+- 📊 Real-time result tracking and analysis to observe clicks, opens, and credentials entered  
 
-📨 Mailtrap & Ethereal for safe email testing using fake SMTP servers
+---
 
-🖥️ Custom email templates and fake login landing pages for hands-on threat simulation
+## 🔐 Tech Stack
 
-📊 Real-time result tracking and analysis to observe clicks, opens, and credentials entered
-
-🧰 Tech Stack
-Python (Flask optional UI extension)
-
-Gophish (Open-source phishing framework)
-
-Mailtrap & Ethereal (Fake SMTP testing tools)
-
-HTML/CSS for email templates and phishing landing pages
-
-Git & GitHub for version control and project deployment
+- Python / Flask (optional UI extension)  
+- Gophish (Open-source phishing framework)  
+- Mailtrap & Ethereal (Fake SMTP testing tools)  
+- HTML/CSS for email templates and phishing landing pages  
+- Git & GitHub for version control and project deployment
 
 ---
 
