@@ -33,13 +33,22 @@ This project simulates a phishing campaign in a safe, sandboxed environment usin
 
 ---
 
-## 📸 Screenshots
+### 📸 Screenshots
 
-1. Campaign Dashboard  
-2. Email Template  
-3. Ethereal Inbox  
-4. Campaign Details  
-5. Fake Login Landing Page
+1. **Campaign Dashboard**  
+   <img src="assets/screenshots/campaign-results.png" width="600"/>
+
+2. **Email Template**  
+   <img src="assets/screenshots/email-template.png" width="600"/>
+
+3. **Ethereal Inbox**  
+   <img src="assets/screenshots/ethereal-inbox.png" width="600"/>
+
+4. **Campaign Details**  
+   <img src="assets/screenshots/job-offer-results.png" width="600"/>
+
+5. **Fake Login Landing Page**  
+   <img src="assets/screenshots/landing-page.png" width="600"/>
 
 ---
 
