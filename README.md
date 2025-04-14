@@ -34,7 +34,7 @@ This project simulates end-to-end phishing attacks in a secure, sandboxed lab. K
 
 ---
 
-📸 **Screenshots**
+## 📸 Screenshots
 
 1. **Campaign Dashboard**  
    ![Campaign Results](assets/screenshots/campaign-results.png)
@@ -52,6 +52,7 @@ This project simulates end-to-end phishing attacks in a secure, sandboxed lab. K
    ![Landing Page](assets/screenshots/landing-page.png)
 
 ---
+
 
 ## 🛠️ How to Use
 
