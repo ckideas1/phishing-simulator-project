@@ -56,30 +56,29 @@ This project simulates end-to-end phishing attacks in a secure, sandboxed lab. K
 ## 🛠️ How to Use
 
 ```bash
-1. Launch Gophish
+1. Launch Gophish  
    ./gophish
 
-2. Open in browser:
+2. Open in browser  
    https://127.0.0.1:3333
 
-3. Create Sending Profile with Mailtrap or Ethereal
+3. Create sending profile with Mailtrap or Ethereal
 
 4. Launch campaign and monitor results
-```
 
 ---
 
-## 📂 Repository
-
-https://github.com/ckideas1/phishing-simulator-project
+📁 Repository
+🔗 GitHub Repo Link
 
 ---
 
-## ✅ Project Status
+✅ Project Status
+  ✅ Pushed to GitHub
 
-- ✅ Pushed to GitHub  
-- ✅ Tested email send with both Mailtrap and Ethereal  
-- ✅ Ready for portfolio + resume  
+  ✅ Tested email send with both Mailtrap and Ethereal
+
+  ✅ Ready for portfolio + resume showcase
 
 ---
 
