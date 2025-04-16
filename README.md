@@ -1,36 +1,38 @@
-# 🛡️ Phishing Simulator Project
+# 🎯 Phishing Simulator Project
 
-A professional-grade phishing simulation lab built to demonstrate cybersecurity awareness, email security testing, and incident response readiness. This environment replicates real-world phishing campaigns using **Gophish**, **Mailtrap**, and **Ethereal**, without spamming real inboxes.
-
----
-
-## 🚀 Project Overview
-
-This project simulates end-to-end phishing attacks in a secure, sandboxed lab. Key features include:
-
-- 🧠 **Gophish** for designing, launching, and monitoring phishing campaigns  
-- 📬 **Mailtrap** & **Ethereal** for safe email testing using fake SMTP servers  
-- 💻 Custom email templates and fake login landing pages for hands-on threat simulation  
-- 📊 Real-time result tracking and analysis to observe clicks, opens, and credentials entered  
+A professional-grade phishing simulation lab designed to demonstrate cybersecurity awareness, email security testing, and red team engagement methods. This project emulates real-world phishing campaigns using Gophish, Mailtrap (or Ethereal), and custom-styled HTML landing pages — all deployable in minutes.
 
 ---
 
-## 🔐 Tech Stack
+## 🧠 Project Overview
 
-- Python / Flask (optional UI extension)  
-- Gophish (Open-source phishing framework)  
-- Mailtrap & Ethereal (Fake SMTP testing tools)  
-- HTML/CSS for email templates and phishing landing pages  
-- Git & GitHub for version control and project deployment
+This simulator demonstrates common phishing attacks in a secure, sandboxed environment. Key features include:
+
+- 📨 Crafting believable phishing emails using Gophish
+- 🔒 Securing SMTP delivery with Mailtrap or Ethereal sandbox accounts
+- 💡 Launching realistic landing pages to simulate user credential harvesting
+- 📊 Visual tracking and analysis of results via Gophish dashboards
+- 🧰 Documented setup, screenshots, and README for recruiter visibility
 
 ---
 
-## ✨ Key Features
+## 🧰 Tech Stack
 
-- Create fake phishing email campaigns using Gophish
-- Securely test email delivery with Mailtrap and Ethereal
-- Learn hands-on how phishing works—without harming anyone
-- Professional README and GitHub push for recruiters
+- Python / Flask (optional for extension)
+- Gophish (Self-hosted phishing framework)
+- HTML/CSS for custom-styled templates and landing pages
+- Mailtrap & Ethereal SMTP (for safe testing)
+- GitHub for version control and repo hosting
+
+---
+
+## 🚀 Key Features
+
+- Simulate phishing emails with full customization
+- Safe email delivery using sandbox SMTP (no real victims harmed)
+- Click-through landing page to simulate credential harvesting
+- Full Gophish analytics dashboard to track interactions
+- Screenshot documentation for recruiter walkthroughs
 
 ---
 
@@ -53,38 +55,33 @@ This project simulates end-to-end phishing attacks in a secure, sandboxed lab. K
 
 ---
 
-
-## 🛠️ How to Use
+## ⚙️ How to Use
 
 ```bash
-1. Launch Gophish  
-   ./gophish
+# 1. Launch Gophish
+./gophish
 
-2. Open in browser  
-   https://127.0.0.1:3333
+# 2. Open browser
+http://127.0.0.1:3333
 
-3. Create sending profile with Mailtrap or Ethereal
+# 3. Create emails with Mailtrap or Ethereal
 
-4. Launch campaign and monitor results
-
----
-
-📂 Repository  
-🔗 GitHub Repo: https://github.com/ckideas1/phishing-simulator-project
+# 4. Launch campaign and monitor results
 
 ---
 
-✅ Project Status
-  ✅ Pushed to GitHub
-
-  ✅ Tested email send with both Mailtrap and Ethereal
-
-  ✅ Ready for portfolio + resume showcase
+🔐 Security Considerations
+This environment is isolated for learning purposes. All email accounts are sandboxed and no real users or data are involved. This project demonstrates phishing techniques ethically and securely.
 
 ---
 
-## 👤 Author
+📁 GitHub Repository
+https://github.com/ckideas1/phishing-simulator-project
 
-**Bryan Garcia**  
-Security Engineering | Cloud Solutions | Cybersecurity Pre-Sales  
-GitHub: [ckideas1](https://github.com/ckideas1)
+---
+
+✍️ Author
+Bryan Garcia
+Security | Cloud Solutions | Cybersecurity Pre-Sales
+📧 findbryannow1@gmail.com
+🔗 https://github.com/ckideas1
